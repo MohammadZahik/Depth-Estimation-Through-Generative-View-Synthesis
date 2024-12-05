@@ -3,6 +3,7 @@
 This project aims to develop an advanced stereo image processing and depth estimation system by leveraging a combination of classical computer vision techniques and modern deep learning models. The system utilizes stereo matching algorithms to generate disparity maps, which are then used for accurate depth estimation. The project also incorporates generative view synthesis to enhance the quality of the depth maps and stereo images.
 
 **Key Features:**
+
 Stereo Matching & Depth Estimation: The core functionality involves generating precise depth maps from stereo image pairs by utilizing stereo correspondence and matching techniques like block matching and epipolar geometry.
 
 Generative View Synthesis: Advanced techniques like generative view synthesis are used to improve the quality and realism of depth maps, producing more accurate 3D reconstructions from 2D stereo pairs.
